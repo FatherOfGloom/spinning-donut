@@ -1,0 +1,14 @@
+C:\Users\mi\tartaros\git\Donut\bin\Debug\net7.0\Donut.exe
+C:\Users\mi\tartaros\git\Donut\bin\Debug\net7.0\Donut.deps.json
+C:\Users\mi\tartaros\git\Donut\bin\Debug\net7.0\Donut.runtimeconfig.json
+C:\Users\mi\tartaros\git\Donut\bin\Debug\net7.0\Donut.dll
+C:\Users\mi\tartaros\git\Donut\bin\Debug\net7.0\Donut.pdb
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.AssemblyInfoInputs.cache
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.AssemblyInfo.cs
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.csproj.CoreCompileInputs.cache
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.dll
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\refint\Donut.dll
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.pdb
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\Donut.genruntimeconfig.cache
+C:\Users\mi\tartaros\git\Donut\obj\Debug\net7.0\ref\Donut.dll
